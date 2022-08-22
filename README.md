@@ -1,1 +1,2 @@
-# Front_End_Projects
+# Spotify-music-application-Clone
+created music application clone using html, css and javascript
